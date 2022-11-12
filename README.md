@@ -8,3 +8,4 @@
 # [Finish] 2-6
 # [Finish] 2-7
 # [Finish] 2-8
+# [Finish] ruby-practice
